@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Phanindra Kumar Kannaji</title>
+<link rel="stylesheet" type="text/css"
+	href="../resources/styles/main.css" />
+</head>
+<body background="../resources/images/paper.jpg">
+	<p class='heading customfont'>Phanindra Kumar Kannaji</p>
+	<p class='normaltext customfont'>
+		I hope you know the commands. But, software didn't work like that, I tried. So, type in 'help' to see the list of commands and usage.
+	</p>
+    <?php echo "
+		<label class='askcommand customfont' for='commandinput'>
+			What do you need to know? 
+		</label>
+		<input id='commandinput' type='text' maxLength='10' class='askcommand customfont'>
+		</input>
+	"?> 
+    </body>
+</html>

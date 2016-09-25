@@ -1,0 +1,22 @@
+<script src="../resources/scripts/refreshScript.js"
+	type="text/javascript"></script>
+
+<table>
+	<tbody>
+		<tr>
+			<td width="10%" style="text-align: center;"><img height="50" width="50"
+				src="../resources/images/emaillogo.png" /></td>
+			<td width="90%">pkanna1@umbc.edu</td>
+		</tr>
+		<tr>
+			<td width="10%"><img height="50" width="50"
+				src="../resources/images/phonelogo.png" /></td>
+			<td width="90%">(443) 636 - 7146</td>
+		</tr>
+		<tr>
+			<td width="10%"><img height="50" width="30"
+				src="../resources/images/addresslogo.png" /></td>
+			<td width="90%">4760 drayton green, Arbutus, MD 21227</td>
+		</tr>
+	</tbody>
+</table>

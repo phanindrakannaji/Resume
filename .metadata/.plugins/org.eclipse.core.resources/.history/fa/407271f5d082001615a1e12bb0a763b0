@@ -1,0 +1,12 @@
+$(document).ready(function(){
+	$("#commandInput").on("keypress", function(e){
+		keypressInBox(e);
+	});
+	$("#commandInput").focus();
+	$("#commandInput").focusout(function(e){
+		$("#commandInput").focus();
+	});
+	$(document).on("click", function() {
+		$("#commandInput").focus();
+	});
+})

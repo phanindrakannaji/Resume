@@ -1,0 +1,22 @@
+<script src="../resources/scripts/refreshScript.js"
+	type="text/javascript"></script>
+
+<table>
+	<tbody>
+		<tr>
+			<td width="10%" style="text-align: center;"><img height="50" width="50"
+				src="../resources/images/emaillogo.png" /></td>
+			<td class="customfont2 normaltext" width="90%"><a href="mailto:pkanna1@umbc.edu" target="_top">pkanna1@umbc.edu</a></td>
+		</tr>
+		<tr>
+			<td width="10%" style="text-align: center;"><img height="50" width="50"
+				src="../resources/images/phonelogo.png" /></td>
+			<td class="customfont2 normaltext" width="90%"><a href="tel: +14436367146" target="_top">(443) 636 - 7146</a></td>
+		</tr>
+		<tr>
+			<td width="10%" style="text-align: center;"><img height="50" width="30"
+				src="../resources/images/addresslogo.png" /></td>
+			<td class="customfont2 normaltext" width="90%"><a href="https://www.google.com/maps/place/4760+Drayton+Green,+Arbutus,+MD+21227/@39.260211,-76.699514,15z/data=!4m5!3m4!1s0x89c81c52660ce1bf:0xeb6960e989c806b!8m2!3d39.2600286!4d-76.6977763?ll=39.260211,-76.699514&z=15&t=m&hl=en-US&gl=US&mapclient=embed&q=4760+Drayton+Green+Arbutus,+MD+21227" target="blank">4760 drayton green, Arbutus, MD 21227</a></td>
+		</tr>
+	</tbody>
+</table>

@@ -1,0 +1,9 @@
+$(document).ready(function(){
+	$('.divExperienceHeading').click(function(){
+		$(this).parent().children().last().setAttr("display", "block");
+	});
+	var span = $(".close")[0];
+	$(".close")[0].onclick(function() {
+	    modal.style.display = "none";
+	});
+});

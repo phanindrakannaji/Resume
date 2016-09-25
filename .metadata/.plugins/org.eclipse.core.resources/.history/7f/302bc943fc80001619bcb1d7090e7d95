@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+@font-face {
+    font-family: "My Custom Font";
+    src: url('https://swe.umbc.edu/~pkanna1/Resume/resources/fonts/QuidProQuo.ttf') format("truetype");
+}
+.customfont { 
+    font-family: "My Custom Font", Verdana, Tahoma;
+}
+.heading{
+	color: darkblue; 
+	text-align: center; 
+	font-size: 80px; 
+	text-decoration: -moz-anchor-decoration;
+}
+.askcommand{
+	color: darkblue; 
+	text-align: left; 
+	font-size: 40px; 
+	background-color: rgba(0, 0, 0, 0);
+    border: medium none;
+}
+.results{
+	color: darkblue; 
+	text-align: center; 
+	font-size: 40px; 
+}

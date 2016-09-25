@@ -1,0 +1,9 @@
+$(document).ready(function(){
+	$("#commandInput").keypress(function(e){
+		keypressInBox(e);
+	});
+	$("#commandInput").on("focusout", function(e){
+		$("#commandInput").focus();
+		})
+	$("#commandInput").focus();
+})

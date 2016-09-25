@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="maxLength" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="maxLength"/>
+			<item value="&lt;td width=&quot;10%&quot;&gt;&lt;/td&gt;"/>
+			<item value="skillsContent"/>
+			<item value="skillsHeading"/>
+			<item value="  "/>
+			<item value="modal-content"/>
+			<item value="hidden: true"/>
+			<item value="&lt;p&gt;"/>
+		</list>
+		<list key="replacehistory">
+			<item value="&lt;td class=&quot;tdMidLine&quot; width=&quot;10%&quot;&gt;|&lt;/td&gt;"/>
+			<item value="skillsContent customfont2 smalltext"/>
+			<item value="skillsHeading customfont3 smalltext"/>
+			<item value=" "/>
+			<item value="popup modal-content"/>
+			<item value="display: none"/>
+			<item value="&lt;p class=&quot;expHeadingContent&quot;&gt;"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="434" key="DIALOG_HEIGHT"/>
+		<item value="40" key="DIALOG_X_ORIGIN"/>
+		<item value="203" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

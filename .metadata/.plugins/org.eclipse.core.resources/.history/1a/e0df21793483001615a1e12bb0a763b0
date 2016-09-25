@@ -1,0 +1,8 @@
+$(document).ready(function(){
+	$('.divExperienceHeading').click(function(){
+		var currentSymbol = $(this).parent().children().first().children().first().html();
+		$(this).children().first().children().first().slideTogle("fast");
+		$(this).children().first().children().nth-child(2).slideTogle("fast");
+		$(this).parent().children().last().slideToggle("slow");
+	});
+});

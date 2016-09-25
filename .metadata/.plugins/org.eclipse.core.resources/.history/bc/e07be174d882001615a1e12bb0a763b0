@@ -1,0 +1,17 @@
+<script type="text/javascript" src="../resources/scripts/refreshScript.js"></script>
+<table>
+	<tbody>
+		<tr>
+			<td class="customfont2 normaltext" width="10%"></td>
+			<td class="customfont2 normaltext" width="90%"></td>
+		</tr>
+		<tr>
+			<td class="customfont2 normaltext" width="10%"></td>
+			<td class="customfont2 normaltext" width="90%"></td>
+		</tr>
+		<tr>
+			<td class="customfont2 normaltext" width="10%"></td>
+			<td class="customfont2 normaltext" width="90%"></td>
+		</tr>
+	</tbody>
+</table>

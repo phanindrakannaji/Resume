@@ -1,0 +1,11 @@
+$(document).ready(function(){
+	$('.divExperienceHeading').click(function(){
+		var currentSymbol = $(this).parent().children().first().children().first().html();
+		if (currentSymbol == "+"){
+			$(this).children().first().children().first().
+		} else{
+			$(this).parent().children().first().children().first().html("+");
+		}
+		$(this).parent().children().last().slideToggle("slow");
+	});
+});

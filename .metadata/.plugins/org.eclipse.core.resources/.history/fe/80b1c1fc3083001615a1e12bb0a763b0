@@ -1,0 +1,6 @@
+$(document).ready(function(){
+	$('.divExperienceHeading').click(function(){
+		$(this).parent().children().first().children().first().html("-");
+		$(this).parent().children().last().slideToggle("slow");
+	});
+});

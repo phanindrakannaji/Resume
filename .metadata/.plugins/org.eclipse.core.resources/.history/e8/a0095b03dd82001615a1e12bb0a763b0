@@ -1,0 +1,25 @@
+<script type="text/javascript"
+	src="../resources/scripts/refreshScript.js"></script>
+<table>
+	<tbody>
+		<tr class="trBorderBottom">
+			<td class="customfont2 smalltext" width="20%">Master of Science</td>
+			<td class="customfont2 smalltext" width="15%">Computer Science</td>
+			<td class="customfont2 smalltext" width="10%">May 2017 (Expected)</td>
+			<td class="customfont2 smalltext" width="45%"><a
+				href="https://en.wikipedia.org/wiki/University_of_Maryland,_Baltimore_County"
+				target="blank">University of Maryland - Baltimore County, Baltimore,
+					MD</a></td>
+			<td class="customfont2 smalltext" width="10%">3.71</td>
+		</tr>
+		<tr>
+			<td class="customfont2 smalltext" width="20%">Bachelor of Technology</td>
+			<td class="customfont2 smalltext" width="15%">Computer Science</td>
+			<td class="customfont2 smalltext" width="10%">May 2012</td>
+			<td class="customfont2 smalltext" width="45%"><a
+				href="https://en.wikipedia.org/wiki/Andhra_University"
+				target="blank">Andhra University, Visakhapatnam, India</a></td>
+			<td class="customfont2 smalltext" width="10%">3.77</td>
+		</tr>
+	</tbody>
+</table>

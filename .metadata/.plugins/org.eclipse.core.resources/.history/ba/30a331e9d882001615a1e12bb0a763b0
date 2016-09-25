@@ -1,0 +1,17 @@
+<script type="text/javascript" src="../resources/scripts/refreshScript.js"></script>
+<table>
+	<tbody>
+		<tr>
+			<td class="customfont2 normaltext" width="10%">Master of Science</td>
+			<td class="customfont2 normaltext" width="10%">Computer Science</td>
+			<td class="customfont2 normaltext" width="10%">May 2017 (Expected)</td>
+			<td class="customfont2 normaltext" width="70%">University of Maryland - Baltimore County, Baltimore, MD</td>
+		</tr>
+		<tr>
+			<td class="customfont2 normaltext" width="10%">Bachelor of Technology</td>
+			<td class="customfont2 normaltext" width="10%">Computer Science</td>
+			<td class="customfont2 normaltext" width="10%">May 2012</td>
+			<td class="customfont2 normaltext" width="70%">Andhra University, Visakhapatnam, India</td>
+		</tr>
+	</tbody>
+</table>

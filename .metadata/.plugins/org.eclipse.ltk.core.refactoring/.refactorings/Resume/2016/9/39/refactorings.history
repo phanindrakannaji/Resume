@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Resume/resources/fonts/Hello Esli Script.ttf&apos; to &apos;HelloEsliScript.ttf&apos;" description="Rename resource &apos;Hello Esli Script.ttf&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="resources/fonts/Hello Esli Script.ttf" name="HelloEsliScript.ttf" stamp="1474570507346" updateReferences="true"/>
+</session>
